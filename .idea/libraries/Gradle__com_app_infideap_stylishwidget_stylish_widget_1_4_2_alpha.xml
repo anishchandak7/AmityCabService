@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.app.infideap.stylishwidget:stylish-widget-1.4.2-alpha">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/stylish-widget-1.4.2-alpha.aar/fc7a8769d353c5aea897be8869cc93af/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/stylish-widget-1.4.2-alpha.aar/fc7a8769d353c5aea897be8869cc93af/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.app.infideap.stylishwidget/stylish-widget/1.4.2-alpha/ceadaab67d31a74da8c0858d7d647cfa8e5611f0/stylish-widget-1.4.2-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/booking"
+            android:icon="@drawable/ic_booking"
+            android:title="Bookings"
+            android:focusable="false"/>
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_payment_black_24dp"
+            android:title="Profile"
+            android:focusable="false"/>
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_feedback_black_24dp"
+            android:title="Feedback"
+            android:focusable="false"/>
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout_24dp"
+            android:title="Logout"
+            android:focusable="false"/>
+    </group>
+
+</menu>

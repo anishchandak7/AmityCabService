@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934315856893",
+    "firebase_url": "https://amity-cab-service.firebaseio.com",
+    "project_id": "amity-cab-service",
+    "storage_bucket": "amity-cab-service.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934315856893:android:e00bfcd99af2dba9",
+        "android_client_info": {
+          "package_name": "com.example.anish.amitycabservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934315856893-e8sp5db6se3n50besqg79m6mr9qsp92r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anish.amitycabservice",
+            "certificate_hash": "7ee527229b18652b8bd1b5eb9599887f7446f1d4"
+          }
+        },
+        {
+          "client_id": "934315856893-m32q1nh8hkgisu1bicqbk403nobeiklf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCzJ8bofU2EaRbgCbJ6B5hVtGfaiZZGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934315856893-m32q1nh8hkgisu1bicqbk403nobeiklf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
